@@ -1,4 +1,3 @@
 # Aerodynamics simulation applications.
 
-By Mohammad Zandsalimy
-mohammad.zandsalimy@ubc.ca
+By Mohammad Zandsalimy (mohammad.zandsalimy@ubc.ca)
