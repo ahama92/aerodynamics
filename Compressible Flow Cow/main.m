@@ -8,11 +8,11 @@ k = 1.4; % Ideal gas heat capacity ratio
 T = 273.15 + 20; % Static temperature [K]
 c = sqrt(k * R * T); % Speed of sound [m.s^-1]
 
+s.M = 1.0; % The horizontal Mach number of the source
 s.x0 = 0; % The x location of the source at the begining 
 s.y0 = 0; % The y location of the source at the begining 
 s.x = s.x0; % The x location of the source in time
 s.y = s.y0; % The y location of the source in time
-s.M = 1.5; % The horizontal Mach number of the source
 
 frequency = 2;
 if s.M<1
