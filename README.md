@@ -25,7 +25,7 @@ This program can design the geometry of a minimum length nozzle for a supersonic
 ![Alt Text](Previous/c4.jpg)
 
 ## Supersonic Engine Intake Design
-This program inputs the ambient pressure, temperature, flight mach number, and mass flow rate required for the engine. Then the intake in is designed in two different shapes; a single wedge and a wedge with two angles. The output of the program is the intake area and wedge angles as well as the stagnation pressure loss. 
+This program inputs the ambient pressure, temperature, flight mach number, and mass flow rate required for the engine. Then the intake in is designed in two different shapes; a single wedge and a wedge with two angles. The output of the program is the intake area and wedge angles as well as the stagnation pressure loss. You can choose to show pressure, temperature, density, and mach number plots.
 
 ![Alt Text](Previous/c5.jpg)
 
