@@ -9,6 +9,6 @@ This is a program for computing the pressure distribution and lift over NACA 4-d
 ![Alt Text](Previous/c1.jpg)
 
 ## Conical Flow Solver
-This method is based on the Taylor Maccoll method for calculating the shock angle given both flow mach number and cone deflection angle. Conical flow calculations are important for many applications such as supersonic engine intake design. The program can input the cone angle and free stream Mach number and output the shock angle, or simply calculate a table for general use as seen above. 
+This method is based on the Taylor Maccoll method for calculating the shock angle given both flow mach number and cone deflection angle. Conical flow calculations are important for many applications such as supersonic engine intake design. The program can input the cone angle and free stream Mach number and output the shock angle, or simply calculate a table for general use as seen here. 
 ![Alt Text](Previous/c2.jpg)
 
