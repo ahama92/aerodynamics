@@ -16,3 +16,9 @@ This method is based on the Taylor Maccoll method for calculating the shock angl
 This code can calculate the pressure and mach number inside the system of a nozzle and a Fanno tube. This problem is important in designing supersonic wind tunnels. In this problem there reservoir is at 500 [kpa] to the left side of the nozzle. The back pressure is reduced from a high pressure to low pressure.
 ![Alt Text](Previous/c3.jpg)
 
+## Axial Flow Nozzle Design
+This program can design the geometry of a minimum length nozzle for a supersonic wind tunnel (Axial flow) using characteristic lines method. The program inputs the desired outlet mach number, then outputs the geometry for that nozzle. This code is useful in designing supersonic wind tunnel nozzles. The following images show a nozzle designed for an outlet mach number of 2.0.
+![Alt Text](Previous/c4.jpg)
+
+
+
