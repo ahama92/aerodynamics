@@ -12,3 +12,7 @@ This is a program for computing the pressure distribution and lift over NACA 4-d
 This method is based on the Taylor Maccoll method for calculating the shock angle given both flow mach number and cone deflection angle. Conical flow calculations are important for many applications such as supersonic engine intake design. The program can input the cone angle and free stream Mach number and output the shock angle, or simply calculate a table for general use as seen here. 
 ![Alt Text](Previous/c2.jpg)
 
+## Nozzle Fanno Pipe Analyser 
+This code can calculate the pressure and mach number inside the system of a nozzle and a Fanno pipe. This problem is important in designing supersonic wind tunnels. In this problem there reservoir is at 500 [kpa] to the left side of the nozzle. The back pressure is reduced from a high pressure to low pressure.
+![Alt Text](Previous/c3.jpg)
+
